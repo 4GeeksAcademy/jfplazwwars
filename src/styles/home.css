@@ -1,0 +1,26 @@
+.bi-heart-fill{
+ color: brown;   
+}
+
+.bi-heart:hover{
+    transition: 0.5s;
+  color: goldenrod;
+}
+
+i{
+    cursor: pointer;
+}
+p{
+    margin-bottom: 7px;
+}
+.scrollmenu {
+    display: flex;
+    overflow-x: auto
+}
+.card{
+    min-width: 14rem;
+}
+.card img{
+    min-width: 160px;
+    min-height: 250px;
+}
